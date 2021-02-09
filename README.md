@@ -2,7 +2,7 @@
 This game is made using Javascript Coding Platform.
 The "Space" key is used to play the game.
 When the "Space" key is pressed the Ghost moves up. 
-When the "Space" key is released the Ghost falls down and the game is over.
+When the "Space" key is released the Ghost falls down and the game may be over if you do not press it again in time.
 The "Right" key is used to move the Ghost towards the right.
 The "Left" key is used to move the Ghost towards the left.
 The Ghost can rest on the ledge of the window.
